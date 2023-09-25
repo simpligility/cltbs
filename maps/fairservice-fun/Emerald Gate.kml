@@ -1,0 +1,1111 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Start</name>
+      <Point>
+      <coordinates>-124.0271526576244,48.81221855995135,176.8643455505371</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western Terminus Great Trail</name>
+      <TimeStamp>
+        <when>2019-08-27T13:32:36Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0562791102027,48.8232840697078,169.7007164002154</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western Terminus Trans Canada</name>
+      <TimeStamp>
+        <when>2019-09-02T16:37:39Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.056549614962,48.82310449634402,169.6860008239746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feb 12 2021 at 643 AM</name>
+      <TimeStamp>
+        <when>2021-02-12T14:43:01Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 19 m
+Vertical Accuracy: ± 18 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.045198890838,48.8291548998722,175.3487032668292</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>May 10 2021 at 719 AM</name>
+      <TimeStamp>
+        <when>2021-05-10T14:19:23Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 0 m
+Vertical Accuracy: ± -1 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.05894951976,48.81840601583438,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jun 23 2021 at 818 PM</name>
+      <TimeStamp>
+        <when>2021-06-24T03:18:07Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 0 m
+Vertical Accuracy: ± -1 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0707089899894,48.80933365090996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prawn</name>
+      <TimeStamp>
+        <when>2021-07-11T15:59:59Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-123.5708060928156,48.87337607082723,3.531641437401481</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oct 20 2021 at 219 PM</name>
+      <TimeStamp>
+        <when>2021-10-20T21:19:38Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0675186841333,48.80853796678375,205.0351140704006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fairservice gate</name>
+      <TimeStamp>
+        <when>2021-10-20T21:29:24Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0692122927081,48.81224127746064,183.5441073114052</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jan 23 2022 at 1110 AM</name>
+      <TimeStamp>
+        <when>2022-01-23T19:10:00Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.046668314136,48.81824668882757,188.322103231214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jan 23 2022 at 1110 AM</name>
+      <TimeStamp>
+        <when>2022-01-23T19:10:12Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.046624778927,48.81821828934492,188.8995105149224</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jan 23 2022 at 1110 AM</name>
+      <TimeStamp>
+        <when>2022-01-23T19:10:16Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0466266253916,48.81821453924392,189.165830261074</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jan 23 2022 at 1136 AM</name>
+      <TimeStamp>
+        <when>2022-01-23T19:36:33Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 4 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0596593912609,48.81346923209811,202.6358622377738</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jan 23 2022 at 1145 AM</name>
+      <TimeStamp>
+        <when>2022-01-23T19:45:18Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 4 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0683798384591,48.8105473123538,179.185817184858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feb 5 2022 at 1016 AM</name>
+      <TimeStamp>
+        <when>2022-02-05T18:16:31Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.046674778018,48.81823855603652,190.6910809800029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elk Nugget</name>
+      <TimeStamp>
+        <when>2022-02-05T18:16:33Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.046674778018,48.81823855603652,190.6910809800029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elk Nugget Connector</name>
+      <TimeStamp>
+        <when>2022-02-05T18:26:14Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0483341696932,48.81732307020822,201.7693126471713</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Game Trail</name>
+      <TimeStamp>
+        <when>2022-02-05T18:41:36Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.048711331648,48.80844348008218,203.717114017345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Game Trail Connector</name>
+      <TimeStamp>
+        <when>2022-02-05T18:54:25Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0473871656961,48.80527584699283,206.7969908919185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Knowl Connector </name>
+      <TimeStamp>
+        <when>2022-02-05T19:09:04Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0355965137555,48.80660136115632,191.8071349998936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fairservice Connector</name>
+      <TimeStamp>
+        <when>2022-02-05T19:24:17Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0587096490114,48.80591420103226,214.520096312277</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fairservice Main</name>
+      <TimeStamp>
+        <when>2022-02-05T19:27:27Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0598401313424,48.80948731468591,205.2475196672603</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Layer Cake Top End</name>
+      <TimeStamp>
+        <when>2022-02-05T19:36:44Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0676213727611,48.8084733626881,205.1681514130905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorax Connector</name>
+      <TimeStamp>
+        <when>2022-02-05T19:37:24Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0676580603389,48.80846327018032,206.5677388729528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorax</name>
+      <TimeStamp>
+        <when>2022-02-05T19:39:48Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0696633423004,48.80784396507728,206.6184028340504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Run Connector</name>
+      <TimeStamp>
+        <when>2022-02-05T19:42:27Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0718678779129,48.80888771806406,202.9687123596668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Run</name>
+      <TimeStamp>
+        <when>2022-02-05T19:49:28Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.078088150161,48.80663165866524,205.4562276536599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southshore Road Fairservice Gate</name>
+      <TimeStamp>
+        <when>2022-02-05T19:55:55Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0692818814021,48.81225328822872,184.8140183091164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaver Creek fairservice Entrance</name>
+      <TimeStamp>
+        <when>2022-02-05T19:57:39Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0684502919162,48.81057183775748,176.6380457282066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caras Way</name>
+      <TimeStamp>
+        <when>2022-02-19T20:22:34Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0491891421344,48.81447329937056,204.5929172644392</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Secret Squirrel</name>
+      <TimeStamp>
+        <when>2022-02-19T20:23:05Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0492076384088,48.81449044778137,202.0246200999245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waypoint</name>
+      <TimeStamp>
+        <when>2022-02-19T22:18:25Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0582855721286,48.8238997854895,168.6760522676632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Somethii Oh by Specc CTC ial</name>
+      <TimeStamp>
+        <when>2022-04-03T20:53:00Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0676273713458,48.80061981367997,231.9613129729405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Down The Way</name>
+      <TimeStamp>
+        <when>2022-04-03T20:55:00Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0722229224003,48.80081973932535,242.6413497263566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ahh Haa</name>
+      <TimeStamp>
+        <when>2022-04-03T21:12:53Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.058894741276,48.80111606280804,219.8436246160418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Top Of Elk Nugget Trail</name>
+      <TimeStamp>
+        <when>2022-10-15T20:56:49Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0482915248757,48.81732457639569,200.9229582035914</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Start Of Chillin Chairs Trail</name>
+      <TimeStamp>
+        <when>2022-10-15T20:57:45Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0484490485835,48.81755090423292,202.9909151280299</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chilling Chairs First Junction Needs Double Sided Sign</name>
+      <TimeStamp>
+        <when>2022-10-15T21:02:17Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0533561478666,48.81683635634939,199.0244421670213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chilling Chairs Junction 2</name>
+      <TimeStamp>
+        <when>2022-10-15T21:06:09Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.055074504067,48.8166922644571,199.6385874206754</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chilling Chairs Trail End  Got Gravel</name>
+      <TimeStamp>
+        <when>2022-10-15T21:11:48Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0560343178616,48.81650411794391,193.7655382128432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chilling Chairs Junction Off Got Gravel</name>
+      <TimeStamp>
+        <when>2022-10-15T21:22:19Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0566419392738,48.81387640822096,204.2490106043553</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chilling Chairs  Segment 3 Also To ATV Track</name>
+      <TimeStamp>
+        <when>2022-10-15T21:29:13Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      FSR unknown <>
+Chilling chairs ? >]]>
+      </description>
+      <Point>
+        <coordinates>-124.0600929225414,48.81333476676999,204.3912345571443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Level Up Top</name>
+      <TimeStamp>
+        <when>2022-10-15T21:33:31Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      FSR ^ on 1 face 
+Level up on other face ^]]>
+      </description>
+      <Point>
+        <coordinates>-124.06457747652,48.81281609956905,198.840228207128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bottom Of Level Up And Beaver Creek Junction</name>
+      <TimeStamp>
+        <when>2022-10-15T21:36:31Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Beaver creek <>
+Level up ^]]>
+      </description>
+      <Point>
+        <coordinates>-124.0645853404622,48.81286012378205,199.1805701944977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Layer Cake And Beaver Creek Crosses Fairservice</name>
+      <TimeStamp>
+        <when>2022-10-15T21:45:04Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Fairservice main <>
+Layer cake trailhead sign ^
+ 
+On other face 
+Beaver creek trailhead sign >
+
+With map]]>
+      </description>
+      <Point>
+        <coordinates>-124.0683603473751,48.81055784505159,172.3184538256561</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unknown FSR That Goes To Game Trail</name>
+      <TimeStamp>
+        <when>2022-10-15T21:53:48Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0683707461776,48.81056376686872,179.9644387178123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Game Trail Trailhead</name>
+      <TimeStamp>
+        <when>2022-10-15T21:58:45Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      FSR <>
+To Creak tease < 
+Game trail trail head sign on side of post X2]]>
+      </description>
+      <Point>
+        <coordinates>-124.0473275927818,48.80530846726399,207.530293247549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Game Trail Trailhead At Fairservice</name>
+      <TimeStamp>
+        <when>2022-10-15T22:12:00Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Game trail ^
+Fairservice <>]]>
+      </description>
+      <Point>
+        <coordinates>-124.0485543931259,48.8084100629809,205.8048020799527</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pre Game Trail  Fairservice</name>
+      <TimeStamp>
+        <when>2022-10-15T22:15:47Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Fairservice -<>
+Pre game ^]]>
+      </description>
+      <Point>
+        <coordinates>-124.0513280973803,48.80804767520739,207.4953484395718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pre Game Trail Start Of FSR</name>
+      <TimeStamp>
+        <when>2022-10-15T22:22:51Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Pre game ^
+FSR ? <>]]>
+      </description>
+      <Point>
+        <coordinates>-124.0096138833333,48.81188833333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Junction Of FSR 2 And Unknown fSR</name>
+      <TimeStamp>
+        <when>2022-10-15T22:26:14Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      FSR ? <>
+To pregame >
+To fairservice <
+ 
+On other face 
+FSR 2< 
+X2]]>
+      </description>
+      <Point>
+        <coordinates>-124.0507959623776,48.80992064638099,207.4745627735425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AB Greenwell Trailhead  FSR</name>
+      <TimeStamp>
+        <when>2022-10-15T22:30:16Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      FSR 2 <>
+To hundred houses >
+ 
+On other side X2
+AB Greenwell >
+AB Greenwell <]]>
+      </description>
+      <Point>
+        <coordinates>-124.0497091363242,48.8131426567497,199.452206838876</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Secret Squirrel Trailhead</name>
+      <TimeStamp>
+        <when>2022-10-15T22:35:41Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0492487211686,48.81440402280256,200.3479494261963</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Secret Squirrel And Elk Nugget Junction</name>
+      <TimeStamp>
+        <when>2022-10-15T22:42:24Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0492767257847,48.81447728728195,200.7949327705428</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elk Nuggets Trailhead</name>
+      <TimeStamp>
+        <when>2022-10-15T22:44:27Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0446695,48.81774166666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Run Trailhead</name>
+      <TimeStamp>
+        <when>2022-10-18T21:41:28Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0800421263131,48.80753359225901,194.5619650715962</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Run and FSR 9 Junction</name>
+      <TimeStamp>
+        <when>2022-10-18T21:45:50Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      <> FSR 9
+>  to TWA dogs
+ 
+Sides 
+salmon run >
+Salmon run <]]>
+      </description>
+      <Point>
+        <coordinates>-124.0780416666667,48.80663666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Junction Of fSR 9 And Unnamed Road To Lorax</name>
+      <TimeStamp>
+        <when>2022-10-18T21:55:09Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      <> FSR 9
+> to salmon run 
+> to TWA dogs
+
+On sides 
+> unnamed road
+> to Lorax]]>
+      </description>
+      <Point>
+        <coordinates>-124.0732111666667,48.808175,203.9829699182883</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorax and Unnamed Road</name>
+      <TimeStamp>
+        <when>2022-10-18T22:00:33Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Lorax ^
+On other face 
+
+To FSR 9 <]]>
+      </description>
+      <Point>
+        <coordinates>-124.0732341135074,48.80814510365251,203.9829699182883</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waypoint</name>
+      <TimeStamp>
+        <when>2022-10-18T22:06:14Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0732341135074,48.80814510365251,203.9829699182883</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorax And Connect 3</name>
+      <TimeStamp>
+        <when>2022-10-18T22:06:25Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Lorax ^
+Connect 3<>]]>
+      </description>
+      <Point>
+        <coordinates>-124.0732341135074,48.80814510365251,203.9829699182883</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Connect 3 To Lorax And FSR 9</name>
+      <TimeStamp>
+        <when>2022-10-18T22:08:24Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.06955,48.80807166666666,207.1081239806439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Top Of Layer Cake At Junction With fSR And Alternate Cake</name>
+      <TimeStamp>
+        <when>2022-10-18T22:11:50Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Layer cake ^
+FSR <>
+
+On other face 
+Alternate cake ^]]>
+      </description>
+      <Point>
+        <coordinates>-124.0673410242417,48.80866077794087,211.3494477493309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feature Closed</name>
+      <TimeStamp>
+        <when>2022-10-19T03:07:08Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Two “ feature closed”
+
+Do not enter]]>
+      </description>
+      <Point>
+        <coordinates>-124.0574606055966,48.82482229849212,166.2324217884163</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Possible Parking And Access</name>
+      <TimeStamp>
+        <when>2022-10-23T17:18:08Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0500022596626,48.81924995381846,185.68801609613</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Possible Trail Access</name>
+      <TimeStamp>
+        <when>2022-10-23T17:20:31Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0503904414202,48.81869171026818,192.5955480840057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Point where Black BART needs to end</name>
+      <TimeStamp>
+        <when>2022-11-26T19:55:30Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0550173902827,48.81206653933628,205.7727204086259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar 20 2023 at 312 PM</name>
+      <TimeStamp>
+        <when>2023-03-20T22:12:23Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0781842212399,48.82850263180232,192.9229017402977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar 20 2023 at 347 PM</name>
+      <TimeStamp>
+        <when>2023-03-20T22:47:37Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.075995825337,48.82613406820779,189.2193782739341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar 20 2023 at 350 PM</name>
+      <TimeStamp>
+        <when>2023-03-20T22:50:46Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0757548735572,48.82746364867619,190.0255367672071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar 20 2023 at 350 PM</name>
+      <TimeStamp>
+        <when>2023-03-20T22:50:50Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      Horizontal Accuracy: ± 5 m
+Vertical Accuracy: ± 3 m]]>
+      </description>
+      <Point>
+        <coordinates>-124.0757524876021,48.82746368744047,189.6373699782416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Property Line </name>
+      <TimeStamp>
+        <when>2023-03-20T22:50:53Z</when>
+      </TimeStamp>
+      <description>
+      <![CDATA[
+      ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0757524876021,48.82746368744047,189.6373699782416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>End</name>
+      <Point>
+      <coordinates>-124.0279230113992,48.81157124755453,179.2579819653183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emerald Gate.kml</name>
+      <Style>
+        <LineStyle>
+          <color>FFFF0000</color>
+          <width>4</width>
+        </LineStyle>
+      </Style>
+      <LineString>
+      <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+                       -124.0271526576244,48.81221855995135,176.8643455505371 
+                       -124.0271514003389,48.81222224798874,177.1018943786621 
+                       -124.0271481313966,48.8122242596455,177.6278953552246 
+                       -124.0271503945105,48.81222568456904,177.2503318786621 
+                       -124.027141090598,48.81222342145519,178.3820457458496 
+                       -124.027141090598,48.81222342145549,178.3820458063856 
+                       -124.0271515679769,48.81222547502178,178.4114037156105 
+                       -124.0271534119957,48.8122221222605,178.1066551785916 
+                       -124.0271556751095,48.81221985914665,178.2481346726418 
+                       -124.0271530767195,48.81222266708421,178.1576805710793 
+                       -124.0271664039456,48.81222224798904,177.9406395545229 
+                       -124.0271609557085,48.81222694185482,177.8327293982729 
+                       -124.0271477359438,48.8122322721631,177.7878685696051 
+                       -124.0271499754154,48.81223042034464,177.9809227585793 
+                       -124.0271325410568,48.81222757049756,178.5795555701479 
+                       -124.0271151749509,48.81222088456283,178.8775292197242 
+                       -124.027110995544,48.81220882101582,178.8371850345284 
+                       -124.0271205549352,48.81220862739639,179.608547270298 
+                       -124.0271313904686,48.81219298211091,179.8582421438769 
+                       -124.0271328264903,48.81217959941294,180.2416039602831 
+                       -124.0271362433729,48.81216144078775,180.8103906391189 
+                       -124.0271379892938,48.81216353275732,181.4298973670229 
+                       -124.0271368233751,48.8121540464058,181.9396630087867 
+                       -124.0271384249543,48.81214876555597,182.351345134899 
+                       -124.0271400009506,48.8121484034221,182.1113548874855 
+                       -124.0271335569419,48.81212218371795,181.8670660471544 
+                       -124.0271614879103,48.81210067537462,181.6494801817462 
+                       -124.0271644986745,48.81209247485008,181.2926369253546 
+                       -124.0271992568219,48.81208774515648,181.1288002086803 
+                       -124.027219943351,48.81207423606829,181.3659003581852 
+                       -124.0272291895974,48.81206498311638,180.477672512643 
+                       -124.0272296494832,48.81205475650495,181.2984203454107 
+                       -124.0272421855624,48.8120531399267,181.3355409931391 
+                       -124.0272462241313,48.81203993794761,180.9845663039014 
+                       -124.0272624297453,48.81202925385749,181.2987875314429 
+                       -124.0272805556665,48.81202120524254,181.2493353355676 
+                       -124.0273056424644,48.81201149550328,181.7424686243758 
+                       -124.0273181726877,48.81200933366038,181.5392073979601 
+                       -124.0273354939202,48.81200730803686,181.1858111089095 
+                       -124.027365643753,48.81199917446943,180.4073192682117 
+                       -124.0273906020902,48.81199101822028,179.7461781883612 
+                       -124.0273900570907,48.81197990002461,180.0476548708975 
+                       -124.02741058022,48.81197272739211,179.9973601549864 
+                       -124.0274024697092,48.81196832387052,180.1494263811037 
+                       -124.0274142972424,48.81195388931322,179.4324030680582 
+                       -124.0274270704868,48.81194481918727,179.321345159784 
+                       -124.0274439567447,48.81193832080854,179.4878989784047 
+                       -124.0274504621993,48.81192633217054,179.7804547427222 
+                       -124.027462159685,48.8119165604738,179.6685672942549 
+                       -124.0274684677096,48.81190505357458,179.5120329232886 
+                       -124.0274733257024,48.81189550939783,179.9114413578063 
+                       -124.0274761789876,48.81188811622592,180.1394280036911 
+                       -124.0274880582411,48.81188381943935,179.7058246685192 
+                       -124.0275044601462,48.81187495175461,179.6516634132713 
+                       -124.0275130546229,48.81186405429128,179.2858491856605 
+                       -124.0275219690152,48.81185462405008,179.0534439748153 
+                       -124.0275342492945,48.81184533323151,179.5316226473078 
+                       -124.0275530377515,48.81183802028634,179.4735185941681 
+                       -124.0275560267971,48.81182593189988,179.4001547424123 
+                       -124.0275663805283,48.81182021741112,179.2058153757825 
+                       -124.0275792645437,48.81181059930477,178.9364507710561 
+                       -124.0275957405512,48.81180339627488,178.8178618699312 
+                       -124.027600434863,48.81179597829305,178.6996741965413 
+                       -124.0276143599691,48.81178481668127,178.7740150662139 
+                       -124.0276269803779,48.81177259327456,178.7076989719644 
+                       -124.0276343795462,48.81176627984165,179.105006698519 
+                       -124.0276519530641,48.81176002702993,179.120725187473 
+                       -124.0276694435402,48.81175224865442,178.9699639063329 
+                       -124.0276761287746,48.81174145953469,179.3547782730311 
+                       -124.0276949000736,48.81173332257943,179.3249131413177 
+                       -124.0277054529415,48.81172005621691,178.0516144959256 
+                       -124.0277126563379,48.81172141677979,178.8887851787731 
+                       -124.0277200639639,48.8117192254094,179.3820032346994 
+                       -124.0277292010294,48.81170916760565,179.2476330595091 
+                       -124.0277366534828,48.81170181305037,179.4261054107919 
+                       -124.0277503397394,48.81169652612866,179.6391789913177 
+                       -124.0277556409204,48.81168419225119,178.3546068044379 
+                       -124.0277673530698,48.81167365093398,178.5997944977134 
+                       -124.0277745762374,48.81166079667463,179.245682853274 
+                       -124.0277891799144,48.81165605459962,179.0496585359797 
+                       -124.0278010016452,48.81165002579722,179.5909615801647 
+                       -124.0278064773744,48.81163896029548,179.173180331476 
+                       -124.0278223815542,48.81163132193288,179.2725718356669 
+                       -124.0278435799409,48.81161824160968,179.5012919567525 
+                       -124.0278451487543,48.81161488179144,179.4263003738597 
+                       -124.0278563060705,48.81160989230079,180.5270611736923 
+                       -124.0278613445036,48.81160088323697,180.2772213015705 
+                       -124.0278665917,48.81159231727416,180.3149870848283 
+                       -124.0278762974129,48.81158504568674,180.2594638699666 
+                       -124.0278833118307,48.81158128061716,179.9531181231141 
+                       -124.027883635356,48.81158133491174,179.5714106224477 
+                       -124.027891530568,48.81158587897264,179.4958551432937 
+                       -124.027895791238,48.81158984453425,179.458635433577 
+                       -124.0278934689953,48.8115842309303,179.2421791628003 
+                       -124.0279167979728,48.81158457591944,179.4351551905274 
+                       -124.0279230113992,48.81157124755453,179.2579819653183 
+                       -124.0279230113992,48.81157124755453,179.2579819653183 
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

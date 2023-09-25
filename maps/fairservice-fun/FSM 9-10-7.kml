@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FSM 9-10-7.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>FSM 9-10-7</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-124.0360765291773,48.80100498573276,0 -124.034916050928,48.80088544798519,0 -124.0339491280229,48.80083874101816,0 -124.0332069571861,48.80095339668438,0 -124.0325208362461,48.8013455051959,0 -124.0317954664212,48.80182287105895,0 -124.0309956537433,48.80215728421369,0 -124.0300036287744,48.80233747486788,0 -124.0294220205287,48.80251874373994,0 -124.0287429932226,48.80306784225374,0 -124.0282159975151,48.80352019835292,0 -124.0273197220927,48.80388624029039,0 -124.0274834185621,48.80412872579326,0 -124.0278275435342,48.80440040254131,0 -124.0282695487707,48.80456857795782,0 -124.0287298691409,48.80462723637967,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

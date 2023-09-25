@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FSM.kml</name>
+	<Style id="sn_noicon">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id="sydney">
+		<name>Sydney</name>
+		<visibility>0</visibility>
+		<description>New South Wales, Australia</description>
+		<LookAt>
+			<longitude>151.2122001847845</longitude>
+			<latitude>-33.85543600090152</latitude>
+			<altitude>0</altitude>
+			<heading>-136.7378847758026</heading>
+			<tilt>68.87493344592141</tilt>
+			<range>1332.179816629172</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_noicon</styleUrl>
+		<Point>
+			<coordinates>151.2122001847845,-33.85543600090152,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
